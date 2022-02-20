@@ -1,4 +1,4 @@
-# VolunsTale-Codes-Repository
+# VolunsTale-Code-Repository
 Open-Source Codes From my solo debut project / portfolio - "Volun's Tale" <br />
 
 **Purpose:** <br />
